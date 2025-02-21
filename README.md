@@ -6,6 +6,14 @@
     b. npm install it will install all third party libraries
     c. now run the command npm run dev
 
+# Added a Message component
+
+# Now open a new terminal and add bootstrap
+
+npm i bootstrap
+
+reference for copying from bootstrap is https://getbootstrap.com/docs/5.3/components/list-group/
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
